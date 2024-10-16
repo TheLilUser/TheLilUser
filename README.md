@@ -3,6 +3,7 @@
 Yo, if it's not the J in an alt profile (not alt any longer). Welcome to my very own main page.
 - 20y.
 - From Brazil.
+- Gemini ♊️.
 - Autistic.
 - Sometimes bipolar.
 - Often happy.
