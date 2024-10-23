@@ -21,26 +21,26 @@ Time to talk about what I do/do not.
 ## ➕ Additional description
 Account created with main purpose to contribute with translations and explore programming resources. For now I am lazy to describe more, but when I get time, will surely tell more than this here. That's all I would like to show about me for now. <3
 
-## 🈶 Translation history
+## 🈶 Contribution history
 ### Nebulous.io
 Contributing or contributed to:
-- Arabic [adding strings only]
-- Indonesian [translating]
-- Italian [translating]
-- Japanese [translating, correcting, adding strings]
-- Portuguese from Brazil (my native) [translating, correcting]
-- Portuguese from Portugal [translating, correcting, adding strings]
-- Romanian [translating, correcting, adding strings]
-- Spanish from LATAM [correcting]
-- Spanish from Spain [correcting]
-- Turkish [translating, adding strings]
-- Vietnamese [translating, adding strings]
+- **Arabic** – [adding strings only]
+- **Indonesian** – [translating]
+- **Italian** – [translating]
+- **Japanese** – [translating, correcting, adding strings]
+- **Portuguese from Brazil** (my native!) – [translating, correcting]
+- **Portuguese from Portugal** – [translating, correcting, adding strings]
+- **Romanian** – [translating, correcting, adding strings]
+- **Spanish from LATAM** – [correcting]
+- **Spanish from Spain** – [correcting]
+- **Turkish** – [translating, adding strings]
+- **Vietnamese** – [translating, adding strings]
 
 ### KeePassDX
 Contributing or contributed to:
-- Spanish from Spain [translating, correcting]
+- **Spanish from Spain** – [translating, correcting]
 
 ### Aegis Authenticator
 Contributing or contributed to:
-- Italian [translating only]
-- Romanian [translating, correcting]
+- **Italian** – [translating only]
+- **Romanian** – [translating, correcting]
