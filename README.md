@@ -24,23 +24,23 @@ Account created with main purpose to contribute with translations and explore pr
 ## 🈶 Contribution history
 ### Nebulous.io
 Contributing or contributed to:
-- **Arabic** – [adding strings only]
-- **Indonesian** – [translating]
-- **Italian** – [translating]
-- **Japanese** – [translating, correcting, adding strings]
-- **Portuguese from Brazil** (my native!) – [translating, correcting]
-- **Portuguese from Portugal** – [translating, correcting, adding strings]
-- **Romanian** – [translating, correcting, adding strings]
-- **Spanish from LATAM** – [correcting]
-- **Spanish from Spain** – [correcting]
-- **Turkish** – [translating, adding strings]
-- **Vietnamese** – [translating, adding strings]
+- **Arabic** – adding strings only
+- **Indonesian** – translating
+- **Italian** – translating
+- **Japanese** – translating, correcting, adding strings
+- **Portuguese from Brazil** (my native!) – translating, correcting
+- **Portuguese from Portugal** – translating, correcting, adding strings
+- **Romanian** – translating, correcting, adding strings
+- **Spanish from LATAM** – correcting
+- **Spanish from Spain** – correcting
+- **Turkish** – translating, adding strings
+- **Vietnamese** – translating, correcting
 
 ### KeePassDX
 Contributing or contributed to:
-- **Spanish from Spain** – [translating, correcting]
+- **Spanish from Spain** – translating, correcting
 
 ### Aegis Authenticator
 Contributing or contributed to:
-- **Italian** – [translating only]
-- **Romanian** – [translating, correcting]
+- **Italian** – translating only
+- **Romanian** – translating, correcting
