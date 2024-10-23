@@ -25,6 +25,7 @@ Account created with main purpose to contribute with translations and explore pr
 ### Nebulous.io
 Contributing or contributed to:
 - **Arabic** – adding strings only
+- **French** – translating
 - **Indonesian** – translating
 - **Italian** – translating
 - **Japanese** – translating, correcting, adding strings
