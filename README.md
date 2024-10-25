@@ -35,7 +35,7 @@ Contributing or contributed to:
 - 🇲🇽 **Spanish from LATAM** – correcting
 - 🇪🇸 **Spanish from Spain** – correcting
 - 🇹🇷 **Turkish** – translating, adding strings
-- 🇻🇳 **Vietnamese** – translating, correcting
+- 🇻🇳 **Vietnamese** – translating, correcting, adding strings
 
 ### KeePassDX
 Contributing or contributed to:
