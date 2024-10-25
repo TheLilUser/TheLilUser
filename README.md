@@ -25,15 +25,15 @@ Account created with main purpose to contribute with translations and explore pr
 ### [Nebulous.io](https://github.com/simplicialsoftware/nebulous-translations)
 Contributing or contributed to:
 - 🇸🇦 **Arabic** – adding strings only
-- 🇫🇷 **French** – translating
-- 🇮🇩 **Indonesian** – translating
-- 🇮🇹 **Italian** – translating
+- 🇫🇷 **French** – translating only
+- 🇮🇩 **Indonesian** – translating only
+- 🇮🇹 **Italian** – translating only
 - 🇯🇵 **Japanese** – translating, correcting, adding strings
 - 🇧🇷 **Portuguese from Brazil** (my native!) – translating, correcting
 - 🇵🇹 **Portuguese from Portugal** – translating, correcting, adding strings
 - 🇷🇴 **Romanian** – translating, correcting, adding strings
-- 🇲🇽 **Spanish from LATAM** – correcting
-- 🇪🇸 **Spanish from Spain** – correcting
+- 🇲🇽 **Spanish from LATAM** – correcting only
+- 🇪🇸 **Spanish from Spain** – correcting only
 - 🇹🇷 **Turkish** – translating, adding strings
 - 🇻🇳 **Vietnamese** – translating, correcting, adding strings
 
