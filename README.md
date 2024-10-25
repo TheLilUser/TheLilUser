@@ -22,7 +22,7 @@ Time to talk about what I do/do not.
 Account created with main purpose to contribute with translations and explore programming resources. For now I am lazy to describe more, but when I get time, will surely tell more than this here. That's all I would like to show about me for now. <3
 
 ## 🈶 Contribution history
-### Nebulous.io
+### [Nebulous.io](https://github.com/simplicialsoftware/nebulous-translations)
 Contributing or contributed to:
 - 🇸🇦 **Arabic** – adding strings only
 - 🇫🇷 **French** – translating
@@ -37,11 +37,11 @@ Contributing or contributed to:
 - 🇹🇷 **Turkish** – translating, adding strings
 - 🇻🇳 **Vietnamese** – translating, correcting, adding strings
 
-### KeePassDX
+### [KeePassDX](https://github.com/keepassx/keepassx)
 Contributing or contributed to:
 - 🇪🇸 **Spanish from Spain** – translating, correcting
 
-### Aegis Authenticator
+### [Aegis Authenticator](https://github.com/beemdevelopment/Aegis)
 Contributing or contributed to:
 - 🇮🇹 **Italian** – translating only
 - 🇷🇴 **Romanian** – translating, correcting
