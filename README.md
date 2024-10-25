@@ -7,7 +7,7 @@ Yo, if it's not the J in an alt profile (not alt any longer). Welcome to my very
 - Autistic.
 - Sometimes bipolar.
 - Often happy.
-- I love my world's best friend, she's called Nicole <3.
+- I love my world's best friend, she's called Nicole, and I love her sooooooooooo muuuuchhhhhhhhh aaawwwwwwww <3.
 
 ## 🎭 Conditions
 Time to talk about what I do/do not.
