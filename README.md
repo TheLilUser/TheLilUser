@@ -24,24 +24,25 @@ Account created with main purpose to contribute with translations and explore pr
 ## 🈶 Contribution history
 ### [Nebulous.io](https://github.com/simplicialsoftware/nebulous-translations)
 Contributing or contributed to:
-- 🇸🇦 **Arabic** – adding strings only
-- 🇫🇷 **French** – translating only
-- 🇮🇩 **Indonesian** – translating only
-- 🇮🇹 **Italian** – translating only
-- 🇯🇵 **Japanese** – translating, correcting, adding strings
-- 🇧🇷 **Portuguese from Brazil** (my native!) – translating, correcting
-- 🇵🇹 **Portuguese from Portugal** – translating, correcting, adding strings
-- 🇷🇴 **Romanian** – translating, correcting, adding strings
-- 🇲🇽 **Spanish from LATAM** – correcting only
-- 🇪🇸 **Spanish from Spain** – correcting only
-- 🇹🇷 **Turkish** – translating, adding strings
-- 🇻🇳 **Vietnamese** – translating, correcting, adding strings
+- 🇫🇷 **French**
+- 🇮🇩 **Indonesian**
+- 🇮🇹 **Italian**
+- 🇯🇵 **Japanese**
+- 🇵🇹 **Portuguese** (my native!)
+- 🇷🇴 **Romanian**
+- 🇪🇸 **Spanish**
+- 🇹🇷 **Turkish**
+- 🇻🇳 **Vietnamese**
 
 ### [KeePassDX](https://github.com/keepassx/keepassx)
 Contributing or contributed to:
-- 🇪🇸 **Spanish from Spain** – translating, correcting
+- 🇪🇸 **Spanish**
 
 ### [Aegis Authenticator](https://github.com/beemdevelopment/Aegis)
 Contributing or contributed to:
-- 🇮🇹 **Italian** – translating only
-- 🇷🇴 **Romanian** – translating, correcting
+- 🇮🇹 **Italian**
+- 🇷🇴 **Romanian**
+
+### [UnicodePad](https://github.com/Ryosuke839/UnicodePad)
+Contributing or contributed to:
+- 🇵🇹 **Portuguese**
