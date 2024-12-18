@@ -1,5 +1,5 @@
 ## ℹ️ Introduction
-Yo, if it's not the J in an alt profile (not alt any longer). Welcome to my very own main page.
+Welcome to my very own main page. **Reminder:** I am being as simple as I can in my README, so do not expect too much aesthetic here.
 - 20y.
 - From Brazil.
 - Otaku.
@@ -46,3 +46,5 @@ Contributing or contributed to:
 ### [UnicodePad](https://github.com/Ryosuke839/UnicodePad)
 Contributing or contributed to:
 - 🇵🇹 **Portuguese**
+
+-----
