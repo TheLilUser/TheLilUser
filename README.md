@@ -31,4 +31,8 @@ Currently contributing to:
 Currently contributing to:
 - 🇵🇹 **Portuguese**
 
+### [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager)
+Currently contributing to:
+- 🇷🇴 **Romanian**
+
 -----
