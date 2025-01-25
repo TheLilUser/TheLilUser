@@ -3,10 +3,7 @@ Welcome to my very own main page. **Reminder:** I am being as simple as I can in
 - 20y.
 - From Brazil.
 - Otaku.
-- Gemini ♊️.
-- Autistic.
-- Sometimes bipolar.
-- Often happy.
+- Gemini ♊️ (I actually don't trust zodiac signs XD).
 - I love my world's best friend, she's called Nicole, and I love her sooooooooooo muuuuchhhhhhhhh aaawwwwwwww <3.
 
 ## 🎭 Conditions
