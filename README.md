@@ -16,7 +16,7 @@ Time to talk about what I do/do not.
 - Currently making a typeface for work. May I create a repo to show others than that one.
 
 ## ➕ Additional description
-Account created with main purpose to contribute with translations and explore programming resources. For now I am lazy to describe more, but when I get time, will surely tell more than this here. That's all I would like to show about me for now. <3
+Account created with main purpose to contribute with translations, explore programming resources, and open-source apps to check out. For now I am lazy to describe more, but when I get time, will surely tell more than this here. That's all I would like to show about me for now. <3
 
 ## 🈶 Contributions
 ### [Nebulous.io](https://github.com/simplicialsoftware/nebulous-translations)
