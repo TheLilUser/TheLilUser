@@ -2,7 +2,7 @@
 Welcome to my very own main page. **Reminder:** I am being as simple as I can in my README, so do not expect too much aesthetic here.
 - 20y.
 - From Brazil.
-- Anime appreciator. -_-
+- Anime appreciator, not really an otaku. -_-
 - Gemini ♊️ (I actually don't trust zodiac signs XD).
 - I love my world's best friend, she's called Nicole, and I love her sooooooooooo muuuuchhhhhhhhh aaawwwwwwww <3.
 
