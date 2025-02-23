@@ -21,6 +21,7 @@ Account created with main purpose to contribute with translations, explore progr
 ## 🈶 Contributions
 ### [Nebulous.io](https://github.com/simplicialsoftware/nebulous-translations)
 Currently contributing to:
+- 🇪🇪 **Estonian**
 - 🇵🇹 **Portuguese**
 - 🇷🇴 **Romanian**
 
